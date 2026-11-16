@@ -4,7 +4,7 @@
 
 # João Pedro Sobral
 
-### Software Engineer · AI & Data Enthusiast
+### Software Engineer
 
 *MSc in Informatics and Computing Engineering @ FEUP*
 
