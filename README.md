@@ -22,7 +22,7 @@
 
 ```yaml
 name: João Pedro Antão Sobral
-location: Porto, Portugal
+location: Vila Nova de Gaia, Portugal
 
 education:
   - Bachelor's in Informatics and Computing Engineering @ FEUP
@@ -98,6 +98,15 @@ I enjoy exploring different technologies, solving complex problems and building 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/></a>
 </p>
+
+---
+
+### 🎯 Hobbies & Interests
+
+- 🎸 **Music:** Guitar and exploring different music styles.
+- 🎮 **Gaming:** Video games and game development.
+- 💪 **Fitness:** Gym training and staying active.
+- 💻 **Technology:** Exploring new technologies and working on personal projects.
 
 ---
 
