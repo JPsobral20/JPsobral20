@@ -35,7 +35,7 @@ interests:
   - Knowledge Graphs & LLMs
 ```
 
-Recent Master's graduate in Informatics and Computing Engineering from the **Faculty of Engineering, University of Porto (FEUP)**.
+Recent Master's graduate in Informatics and Computing Engineering from the Faculty of Engineering, University of Porto (FEUP).
 
 Passionate about software development, with hands-on experience across backend systems, mobile applications, machine learning, data processing and web development.
 
