@@ -6,8 +6,6 @@
 
 ### Software Engineer
 
-*MSc in Informatics and Computing Engineering @ FEUP*
-
 <p align="center">
   <a href="https://linkedin.com/in/joaopedrosobral" target="_blank" rel="noreferrer">LinkedIn</a>
   ·
