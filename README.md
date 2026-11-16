@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm14dHJpbHJvZWZzOGdjejB0dm5qazFxMGIzanVpcDZ6anpsN3diaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300" alt="Coding animation"/>
+<img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300" alt="Coding Hello World animation"/>
 
 # João Pedro Sobral
 
