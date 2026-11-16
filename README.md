@@ -112,6 +112,6 @@ I enjoy exploring different technologies, solving complex problems and building 
 
 <div align="center">
 
-*"Always learning. Always building. Always improving."* 🚀
+*"Always learning. Always building. Always improving."* 
 
 </div>
