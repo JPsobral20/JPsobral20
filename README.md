@@ -35,11 +35,6 @@ interests:
   - Data Engineering & Processing
   - Mobile Application Development
   - Knowledge Graphs & LLMs
-
-focus:
-  - Building practical software solutions
-  - Exploring AI-driven applications
-  - Developing scalable data-driven systems
 ```
 
 Recent Master's graduate in Informatics and Computing Engineering from the **Faculty of Engineering, University of Porto (FEUP)**.
