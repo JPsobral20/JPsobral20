@@ -43,7 +43,7 @@ I enjoy exploring different technologies, solving complex problems and building 
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 **Programming Languages**
 
