@@ -96,20 +96,6 @@ I enjoy exploring different technologies, solving complex problems and building 
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JPsobral20&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPsobral20&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=JPsobral20&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
 <div align="center">
 
 *"Always learning. Always building. Always improving."* 🚀
