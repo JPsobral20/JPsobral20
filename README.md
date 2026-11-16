@@ -101,12 +101,12 @@ I enjoy exploring different technologies, solving complex problems and building 
 
 ---
 
-### 🎯 Hobbies & Interests
+### Hobbies And Interests
 
-- 🎸 **Music:** Guitar and exploring different music styles.
-- 🎮 **Gaming:** Video games and game development.
-- 💪 **Fitness:** Gym training and staying active.
-- 💻 **Technology:** Exploring new technologies and working on personal projects.
+- **Music:** Guitar and exploring different music styles.
+- **Gaming:** Video games and game development.
+- **Fitness:** Gym training and staying active.
+- **Technology:** Exploring new technologies and working on personal projects.
 
 ---
 
