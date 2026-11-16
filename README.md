@@ -25,8 +25,8 @@ name: João Pedro Antão Sobral
 location: Porto, Portugal
 
 education:
-  - Master's in Informatics and Computing Engineering @ FEUP
   - Bachelor's in Informatics and Computing Engineering @ FEUP
+  - Master's in Informatics and Computing Engineering @ FEUP
 
 interests:
   - Software Engineering
