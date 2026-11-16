@@ -44,23 +44,9 @@ focus:
 
 Recent Master's graduate in Informatics and Computing Engineering from the **Faculty of Engineering, University of Porto (FEUP)**.
 
-Passionate about software development and artificial intelligence, with hands-on experience across backend systems, mobile applications, machine learning, data processing and web development.
+Passionate about software development, with hands-on experience across backend systems, mobile applications, machine learning, data processing and web development.
 
 I enjoy exploring different technologies, solving complex problems and building solutions that combine software engineering with emerging technologies.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**GATES**](https://github.com/JPsobral20/GATES) | Neuro-symbolic clinical summarization using Knowledge Graph grounding and timeline visualization. | Python · LLMs · Neo4j |
-| [**access-ai**](https://github.com/JPsobral20/access-ai) | AI-powered accessibility assistant. | AI · Web |
-| [**TimeSlice**](https://github.com/JPsobral20/TimeSlice) | Focus timer application featuring campus locations and reward mechanisms. | Flutter · Dart |
-| [**AC-Basketball**](https://github.com/JPsobral20/AC-Basketball) | Machine learning models for WNBA game predictions. | Python · Scikit-learn |
-| [**Isaac**](https://github.com/JPsobral20/Isaac) | Board game implementation using logic programming. | Prolog |
-
-*Explore my repositories for more projects and experiments.*
 
 ---
 
