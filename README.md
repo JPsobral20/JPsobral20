@@ -1,16 +1,12 @@
- <div align="center">
+<div align="center">
 
-<img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300" alt="Coding animation"/>
+<img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="220" alt="Coding animation"/>
 
 # João Pedro Sobral
 
-### Software Engineer
+**Software Engineer**
 
-## Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopedrosobral)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/JPsobral20)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpasobral@hotmail.com)
+[LinkedIn](https://linkedin.com/in/joaopedrosobral) · [GitHub](https://github.com/JPsobral20) · [Email](mailto:jpasobral@hotmail.com)
 
 </div>
 
